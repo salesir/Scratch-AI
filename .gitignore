@@ -1,0 +1,23 @@
+# Checkpoints (large binary files)
+model/checkpoint.pth
+*.pth
+
+# Metrics log
+metrics.jsonl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (too large for git)
+Data/
+*.parquet
+
+# Virtual environments
+venv/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db

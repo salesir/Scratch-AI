@@ -1,0 +1,272 @@
+    Directory: E:\Local_AI_Scratch
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-21  11:11 PM                Data
+d-----        2026-01-21   6:15 PM                dataset
+d-----        2026-01-21  10:53 AM                generator
+d-----        2026-01-22   2:17 PM                model
+d-----        2026-01-18  10:18 PM                tests
+d-----        2026-01-17   8:20 PM                tokenizer
+-a----        2026-02-11   1:16 AM         154051 metrics.jsonl
+
+
+    Directory: E:\Local_AI_Scratch\Data
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-22   1:48 PM                TXT
+-a----        2026-01-21  11:00 PM      196766094 en-00000-of-00052-7cda8f63c262acf8.parquet
+-a----        2026-01-21  11:00 PM      209225030 en-00001-of-00052-5c2b3fd5e60f0124.parquet
+-a----        2026-01-21  11:02 PM      214679261 en-00002-of-00052-835bd07d97f52cbd.parquet
+-a----        2026-01-21  11:01 PM      238508258 en-00003-of-00052-3827386b583e4d76.parquet
+-a----        2026-01-21  11:02 PM      267836632 en-00004-of-00052-a2f24c4fe858fe0f.parquet
+-a----        2026-01-21  11:01 PM      276717928 en-00005-of-00052-2a13fc98474cabed.parquet
+-a----        2026-01-21  11:07 PM      194907582 en-00006-of-00052-81d2618caede0093.parquet
+-a----        2026-01-21  11:07 PM      217399517 en-00007-of-00052-de0de442f370b789.parquet
+-a----        2026-01-21  11:01 PM      244194551 en-00008-of-00052-a83055e8ef415c07.parquet
+-a----        2026-01-21  11:07 PM      236713314 en-00009-of-00052-f2f126633fa25668.parquet
+-a----        2026-01-21  11:01 PM      276163707 en-00010-of-00052-2226b3722aa696eb.parquet
+-a----        2026-01-21  11:07 PM      318525986 en-00011-of-00052-6c9ae05ed451701f.parquet
+-a----        2026-01-21  11:08 PM      233858239 en-00014-of-00052-e976ff9fa7c0a4c2.parquet
+-a----        2026-01-21  11:02 PM      278497883 en-00016-of-00052-5006e8c00e35ad72.parquet
+-a----        2026-01-21  11:02 PM      243691424 en-00020-of-00052-31ef1cece5305678.parquet
+-a----        2026-01-20   6:11 PM      104447818 pippa_standardized.parquet
+-a----        2026-01-21  11:00 PM      105458672 test-00000-of-00001.parquet
+-a----        2026-01-21  11:00 PM      229594302 train-00000-of-00015.parquet
+-a----        2026-01-21  10:43 PM      327858836 train-00000-of-00053-550defad11191c81.parquet
+-a----        2026-01-21  10:59 PM      228483557 train-00001-of-00015.parquet
+-a----        2026-01-21  10:43 PM      327909972 train-00001-of-00053-878f7376c050b92c.parquet
+-a----        2026-01-21  11:01 PM      227983974 train-00002-of-00015.parquet
+-a----        2026-01-21  10:44 PM      327761334 train-00002-of-00053-bb299cb54970f31b.parquet
+-a----        2026-01-21  11:00 PM      226907293 train-00003-of-00015.parquet
+-a----        2026-01-21  10:43 PM      327975038 train-00003-of-00053-ae4de8e6f64b16d1.parquet
+-a----        2026-01-21  11:01 PM      226392986 train-00004-of-00015.parquet
+-a----        2026-01-21  10:43 PM      327981160 train-00004-of-00053-85a48002cc5aa841.parquet
+-a----        2026-01-21  11:00 PM      226931821 train-00005-of-00015.parquet
+-a----        2026-01-21  10:42 PM      327945637 train-00005-of-00053-2dd41d99cee7643f.parquet
+-a----        2026-01-21  11:01 PM      228596794 train-00006-of-00015.parquet
+-a----        2026-01-21  10:43 PM      328069500 train-00006-of-00053-320a65ec4b5a4362.parquet
+-a----        2026-01-21  10:59 PM      229846795 train-00007-of-00015.parquet
+-a----        2026-01-21  10:45 PM      327885679 train-00007-of-00053-1f01f831fbd084bb.parquet
+-a----        2026-01-21  10:59 PM      230388735 train-00008-of-00015.parquet
+-a----        2026-01-21  10:44 PM      327978689 train-00008-of-00053-facc7135a29838ed.parquet
+-a----        2026-01-21  11:00 PM      228027386 train-00009-of-00015.parquet
+-a----        2026-01-21  10:44 PM      327717866 train-00009-of-00053-ec3bffb714667922.parquet
+-a----        2026-01-21  11:00 PM      229472090 train-00010-of-00015.parquet
+-a----        2026-01-21  10:43 PM      327946236 train-00010-of-00053-78910a07a35cdf3d.parquet
+-a----        2026-01-21  11:01 PM      231347864 train-00011-of-00015.parquet
+-a----        2026-01-21  10:44 PM      327828812 train-00011-of-00053-54d977e0f1b17a44.parquet
+-a----        2026-01-21  11:01 PM      230123135 train-00012-of-00015.parquet
+-a----        2026-01-21  10:44 PM      327778082 train-00012-of-00053-8569267e5b36341b.parquet
+-a----        2026-01-21  11:01 PM      230000935 train-00013-of-00015.parquet
+-a----        2026-01-21  10:45 PM      327905913 train-00013-of-00053-248deb0b615b91d8.parquet
+-a----        2026-01-21  11:01 PM      234787773 train-00014-of-00015.parquet
+-a----        2026-01-21  10:44 PM      327883006 train-00014-of-00053-c47af6426c3d43d1.parquet
+-a----        2026-01-21  10:45 PM      327867144 train-00015-of-00053-a26e2762865ab80a.parquet
+-a----        2026-01-21  10:44 PM      327905444 train-00016-of-00053-5e1de5c05c300b83.parquet
+-a----        2026-01-21  10:45 PM      327837676 train-00017-of-00053-ed0674091008807a.parquet
+-a----        2026-01-21  10:45 PM      328063836 train-00018-of-00053-67e33a62a93cfec0.parquet
+-a----        2026-01-21  10:45 PM      328018361 train-00019-of-00053-84088b73397c1689.parquet
+-a----        2026-01-21  10:45 PM      328038851 train-00020-of-00053-5ae0aa4b616094ea.parquet
+-a----        2026-01-21  10:45 PM      328042078 train-00021-of-00053-fdbf833bb63c6505.parquet
+-a----        2026-01-21  10:47 PM      327940105 train-00022-of-00053-69c50557ce189b1c.parquet
+-a----        2026-01-21  10:46 PM      327776092 train-00023-of-00053-03540d6c605f5916.parquet
+-a----        2026-01-21  10:46 PM      327995010 train-00024-of-00053-e33f094803749666.parquet
+-a----        2026-01-21  10:46 PM      327838249 train-00025-of-00053-79d1d53232016cb8.parquet
+-a----        2026-01-21  10:46 PM      327979648 train-00026-of-00053-ad757960ef07e417.parquet
+-a----        2026-01-21  10:46 PM      328032459 train-00027-of-00053-0f40722e1139af97.parquet
+-a----        2026-01-21  10:47 PM      327906171 train-00028-of-00053-de2e6940e76d5489.parquet
+-a----        2026-01-21  10:46 PM      327957005 train-00029-of-00053-947c222f8d60b395.parquet
+-a----        2026-01-21  10:47 PM      327970758 train-00030-of-00053-8296bf51ebae867c.parquet
+-a----        2026-01-21  10:47 PM      327879570 train-00031-of-00053-e169a61caa31af7a.parquet
+-a----        2026-01-21  10:47 PM      327991386 train-00032-of-00053-c717ca9cba02f1b0.parquet
+-a----        2026-01-21  10:48 PM      327913623 train-00033-of-00053-43520498a9bae791.parquet
+-a----        2026-01-21  10:47 PM      328042469 train-00034-of-00053-55b3c0ffcd513b54.parquet
+-a----        2026-01-21  10:48 PM      327799469 train-00035-of-00053-4e1943bdff0be4e4.parquet
+-a----        2026-01-21  10:49 PM      327940490 train-00036-of-00053-d75a0f244ee5de2c.parquet
+-a----        2026-01-21  10:48 PM      328058393 train-00037-of-00053-3361ad9959599ff4.parquet
+-a----        2026-01-21  10:48 PM      327990419 train-00038-of-00053-3424b538308d455a.parquet
+-a----        2026-01-21  10:48 PM      327930150 train-00039-of-00053-6b769e558d050d3b.parquet
+-a----        2026-01-21  10:49 PM      327853685 train-00040-of-00053-0de88c5c96ce9f32.parquet
+-a----        2026-01-21  10:48 PM      327844366 train-00041-of-00053-ad3ee1e36db18846.parquet
+-a----        2026-01-21  10:48 PM      327992016 train-00042-of-00053-398fc610ec5b980c.parquet
+-a----        2026-01-21  10:49 PM      327988152 train-00043-of-00053-8587ffa1c7b1cd89.parquet
+-a----        2026-01-21  10:49 PM      327832265 train-00044-of-00053-ff3d45ed018917b1.parquet
+-a----        2026-01-21  10:49 PM      328059711 train-00045-of-00053-5c07b994edef781f.parquet
+-a----        2026-01-21  10:50 PM      327962221 train-00046-of-00053-4db1a5401edcf091.parquet
+-a----        2026-01-21  10:49 PM      327925149 train-00047-of-00053-5223db06bee9f851.parquet
+-a----        2026-01-21  10:50 PM      327884007 train-00048-of-00053-f415c41eb1d8c79d.parquet
+-a----        2026-01-21  10:49 PM      327738710 train-00049-of-00053-6dbf18f335b7302c.parquet
+-a----        2026-01-21  10:50 PM      327834591 train-00050-of-00053-ba02b582aee5e253.parquet
+-a----        2026-01-21  10:50 PM      327987100 train-00051-of-00053-7e5afe6363fab491.parquet
+-a----        2026-01-21  10:50 PM      328001209 train-00052-of-00053-d5c59b24669d8f78.parquet
+-a----        2026-01-21  11:01 PM      105108695 validation-00000-of-00001.parquet
+
+
+    Directory: E:\Local_AI_Scratch\Data\TXT
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-17   8:26 PM          12083 corrupt text.txt
+-a----        2026-01-17   8:26 PM           7265 Corrupted text.txt
+-a----        2026-01-16  12:30 PM           1024 Grammar module.txt
+-a----        2026-01-17   8:41 PM        1251648 Moby‑Dick by Herman Melville.txt
+-a----        2026-01-18   6:56 PM            450 readme.txt
+-a----        2026-01-18   7:27 PM       65048016 train.bin
+-a----        2026-01-17   8:41 PM        3332342 War and Peace.txt
+-a----        2026-01-17   8:42 PM        5618589 william shakespeare.txt
+
+
+    Directory: E:\Local_AI_Scratch\dataset
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-20  10:27 PM                Lagacy
+d-----        2026-01-20   2:59 PM                parquet
+d-----        2026-01-22   4:04 PM                __pycache__
+-a----        2026-01-22   4:04 PM           2856 dataloader.py
+-a----        2026-01-21   8:10 PM           5155 metrics.py
+-a----        2026-01-22   1:53 PM           6859 train_model.py
+-a----        2026-01-20   2:54 PM              0 __init__.py
+
+
+    Directory: E:\Local_AI_Scratch\dataset\Lagacy
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-20   2:44 PM           3776 build_dataset.py
+-a----        2026-01-20   2:44 PM           1723 dataloader.py
+-a----        2026-01-20   2:46 PM           4900 dataloader_parquet.py
+-a----        2026-01-20  10:14 PM           4985 Lagacy train.py
+-a----        2026-01-20   2:44 PM           1448 parquet_shrinker.py
+-a----        2026-01-19   6:02 PM            367 quickcode.py
+
+
+    Directory: E:\Local_AI_Scratch\dataset\parquet
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-21   6:24 PM                __pycache__
+-a----        2026-01-21  10:24 PM           3686 dataloader_parquet_stream.py
+-a----        2026-01-20  10:58 PM           1371 parquet_iterator.py
+
+
+    Directory: E:\Local_AI_Scratch\dataset\parquet\__pycache__
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-20   3:06 PM           4485 dataloader_parquet_stream.cpython-313.pyc
+-a----        2026-01-21   6:24 PM           2626 parquet_iterator.cpython-313.pyc
+
+
+    Directory: E:\Local_AI_Scratch\dataset\__pycache__
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-22   4:04 PM           3762 dataloader.cpython-313.pyc
+-a----        2026-01-21   8:14 PM           6882 metrics.cpython-313.pyc
+-a----        2026-01-22   1:53 PM           7574 train_model.cpython-313.pyc
+-a----        2026-01-20   3:57 PM            136 __init__.cpython-313.pyc
+
+
+    Directory: E:\Local_AI_Scratch\generator
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-22   2:34 PM                __pycache__
+-a----        2026-01-22   2:33 PM           2124 generate_greedy.py
+-a----        2026-01-22   2:34 PM           2078 generate_sampling.py
+
+
+    Directory: E:\Local_AI_Scratch\generator\__pycache__
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-20   8:12 PM           3345 generate.cpython-313.pyc
+-a----        2026-01-22   2:34 PM           2861 generate_greedy.cpython-313.pyc
+-a----        2026-01-22   2:34 PM           2931 generate_sampling.cpython-313.pyc
+
+
+    Directory: E:\Local_AI_Scratch\model
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-20   3:57 PM                __pycache__
+-a----        2026-02-11   1:16 AM       44740717 checkpoint.pth
+-a----        2026-01-17  11:35 AM           3210 model.py
+-a----        2026-01-17  11:24 AM              0 __init__.py
+
+
+    Directory: E:\Local_AI_Scratch\model\__pycache__
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-20   3:57 PM           6258 model.cpython-313.pyc
+-a----        2026-01-20   3:57 PM            134 __init__.cpython-313.pyc
+
+
+    Directory: E:\Local_AI_Scratch\tests
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-21  11:53 PM                __pycache__
+-a----        2026-01-21  11:52 PM            119 Quick.py
+-a----        2026-01-17   4:02 PM           1058 test_checkpoint.py
+-a----        2026-01-17   4:02 PM            739 test_dataloader.py
+-a----        2026-01-17   6:13 PM           2056 test_model.py
+-a----        2026-01-17   4:02 PM            911 test_training_step.py
+-a----        2026-01-17  11:24 AM              0 __init__.py
+
+
+    Directory: E:\Local_AI_Scratch\tests\__pycache__
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-21  11:53 PM            298 Quick.cpython-313.pyc
+-a----        2026-01-17   4:05 PM           2094 test_checkpoint.cpython-313-pytest-9.0.2.pyc
+-a----        2026-01-17   4:05 PM           5077 test_dataloader.cpython-313-pytest-9.0.2.pyc
+-a----        2026-01-17   6:13 PM           4855 test_model.cpython-313-pytest-9.0.2.pyc
+-a----        2026-01-17  11:39 AM           2218 test_model.cpython-313.pyc
+-a----        2026-01-17   4:05 PM           2870 test_training_step.cpython-313-pytest-9.0.2.pyc
+-a----        2026-01-17  11:36 AM            134 __init__.cpython-313.pyc
+
+
+    Directory: E:\Local_AI_Scratch\tokenizer
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        2026-01-18   2:46 PM                __pycache__
+-a----        2026-01-18   2:46 PM           1695 bpe.py
+-a----        2026-01-16  12:33 PM         252882 merges.txt
+-a----        2026-01-15   8:48 PM            224 test_tokenizer.py
+-a----        2026-01-16  12:33 PM           2112 train_bpe.py
+-a----        2026-01-16  12:33 PM         260157 vocab.json
+-a----        2026-01-15   9:58 PM              0 __init__.py
+
+
+    Directory: E:\Local_AI_Scratch\tokenizer\__pycache__
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2026-01-18   2:46 PM           3675 bpe.cpython-313.pyc
+-a----        2026-01-17   8:20 PM            138 __init__.cpython-313.pyc
+
+
+PS C:\Users\aryan>
